@@ -8,6 +8,13 @@
 
 ~~tachado~~
 
+`maxyland`
+
+```
+if Maxyland.isFurry == True:
+    print("o no D:")
+```
+
 
 
 
